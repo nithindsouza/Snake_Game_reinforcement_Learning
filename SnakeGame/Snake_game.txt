@@ -1,0 +1,10 @@
+Conda create -n pygame_env python = 3.7
+
+conda activate pygame_env
+
+pip install pygame
+
+pytorch.org
+conda install pytorch torchvision cpuonly -c pytorch
+
+pip install matplotlib ipython
